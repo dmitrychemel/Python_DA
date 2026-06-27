@@ -58,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Task3">
+  <component name="RunManager" selected="Python.Task2">
     <configuration name="Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DA_Python" />
       <option name="ENV_FILES" value="" />
