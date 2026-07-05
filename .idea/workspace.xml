@@ -31,6 +31,11 @@
     &quot;accountId&quot;: &quot;76f6c61b-5f26-4995-95a0-c3279366cfa0&quot;
   }
 }</component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -144,7 +149,7 @@
       <workItem from="1782916561635" duration="345000" />
       <workItem from="1782943220542" duration="1956000" />
       <workItem from="1783011426384" duration="2852000" />
-      <workItem from="1783232481359" duration="788000" />
+      <workItem from="1783232481359" duration="2407000" />
     </task>
     <servers />
   </component>
@@ -152,10 +157,10 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DA_Python$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1782944125832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson10" />
+    <SUITE FILE_PATH="coverage/DA_Python$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1783233528000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
     <SUITE FILE_PATH="coverage/DA_Python$newTask2.coverage" NAME="newTask2 Coverage Results" MODIFIED="1782838746278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/DA_Python$newTask.coverage" NAME="newTask Coverage Results" MODIFIED="1782840066249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
-    <SUITE FILE_PATH="coverage/DA_Python$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1783232921365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
+    <SUITE FILE_PATH="coverage/DA_Python$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1783233926200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson12" />
     <SUITE FILE_PATH="coverage/DA_Python$Task5.coverage" NAME="Task5 Coverage Results" MODIFIED="1782669359209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/DA_Python$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1782944248875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson10" />
     <SUITE FILE_PATH="coverage/DA_Python$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1783233238498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
