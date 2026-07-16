@@ -56,6 +56,8 @@
     &quot;Python.Task3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.newTask.executor&quot;: &quot;Run&quot;,
     &quot;Python.newTask2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -64,10 +66,19 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cheme/PycharmProjects/DA_Python&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheme\PycharmProjects\DA_Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheme\PycharmProjects\DA_Python\Test" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DA_Python" />
@@ -150,7 +161,10 @@
       <workItem from="1782943220542" duration="1956000" />
       <workItem from="1783011426384" duration="2852000" />
       <workItem from="1783232481359" duration="2976000" />
-      <workItem from="1783871124110" duration="2938000" />
+      <workItem from="1783871124110" duration="5458000" />
+      <workItem from="1783965830498" duration="4744000" />
+      <workItem from="1784051410225" duration="2828000" />
+      <workItem from="1784217804147" duration="2464000" />
     </task>
     <servers />
   </component>
@@ -158,12 +172,14 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DA_Python$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1783233528000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson11" />
+    <SUITE FILE_PATH="coverage/DA_Python$Task3.coverage" NAME="Task3 Coverage Results" MODIFIED="1783874344969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson13" />
     <SUITE FILE_PATH="coverage/DA_Python$newTask2.coverage" NAME="newTask2 Coverage Results" MODIFIED="1782838746278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
     <SUITE FILE_PATH="coverage/DA_Python$newTask.coverage" NAME="newTask Coverage Results" MODIFIED="1782840066249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
+    <SUITE FILE_PATH="coverage/DA_Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1784220310537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
     <SUITE FILE_PATH="coverage/DA_Python$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1783873007284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson13" />
     <SUITE FILE_PATH="coverage/DA_Python$Task5.coverage" NAME="Task5 Coverage Results" MODIFIED="1782669359209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson7" />
+    <SUITE FILE_PATH="coverage/DA_Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1783966738406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test1" />
     <SUITE FILE_PATH="coverage/DA_Python$Task4.coverage" NAME="Task4 Coverage Results" MODIFIED="1782944248875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson10" />
-    <SUITE FILE_PATH="coverage/DA_Python$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1783873489371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson13" />
+    <SUITE FILE_PATH="coverage/DA_Python$Task2.coverage" NAME="Task2 Coverage Results" MODIFIED="1784217922474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1" />
   </component>
 </project>
